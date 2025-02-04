@@ -17,4 +17,4 @@ YouTube 동영상 검색 애플리케이션입니다.
 1. Google Cloud Console에서 YouTube Data API v3 활성화
 2. Google Apps Script에서 프로젝트 생성
 3. 코드 복사 및 배포
-4. 웹 앱으로 실행
+4. 웹 앱으로 실행 
