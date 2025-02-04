@@ -1,0 +1,10 @@
+# API 키 및 민감한 정보
+.env
+*.config.js
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
+
+# 로그 파일
+*.log 
